@@ -9,6 +9,6 @@ Upload your PDF resume and paste a job description to get:
 Tech Stack
 
 - **Frontend**: React (Vite), CSS
-- **Backend**: Python (Flask)
+- **Backend**: Python (Flask) 
 - **AI Engine**: Google Gemini 1.5 Flash
 - **PDF Processing**: PyMuPDF (`fitz`)
