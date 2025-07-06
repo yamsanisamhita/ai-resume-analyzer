@@ -5,3 +5,10 @@ Upload your PDF resume and paste a job description to get:
 - Section-wise feedback
 - Job relevance analysis
 - Customization suggestions
+
+Tech Stack
+
+- **Frontend**: React (Vite), CSS
+- **Backend**: Python (Flask)
+- **AI Engine**: Google Gemini 1.5 Flash
+- **PDF Processing**: PyMuPDF (`fitz`)
